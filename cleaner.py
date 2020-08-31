@@ -166,6 +166,8 @@ PATHS = {
                    'Cache': 'C:\\Users\\kayot\\AppData\\Local\\Microsoft\\Edge\\User Data\\Default\\Cache',
                    'GPUCache': 'C:\\Users\\kayot\\AppData\\Local\\Microsoft\\Edge\\User Data\\Default\\GPUCache',
                    'ShaderCache': 'C:\\Users\\kayot\\AppData\\Local\\Microsoft\\Edge\\User Data\\ShaderCache\\GPUCache'},
+        'Opera': {'Cache': 'C:\\Users\\kayot\\AppData\\Local\\Opera Software\\Opera Stable\\Cache',
+                  'GPUCache': 'C:\\Users\\kayot\\AppData\\Roaming\\Opera Software\\Opera Stable\\GPUCache',}
     }
 }
 
